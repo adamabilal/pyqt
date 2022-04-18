@@ -1,0 +1,3 @@
+Q1°)  il ne faut pas oublier le parametre de main. le args
+Q2°)  on devrait mettre à la place de print("") main(sys.argv)
+Q3°) POUR QUE LA FENETRE S'AFFICHE IL FAUDRA METTRE exec().
